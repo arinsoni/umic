@@ -1,3 +1,3 @@
 Branch host links
-1. [Footer](umic-footer.netlify.app)
+1. [Footer](https://umic-footer.netlify.app/)
 
