@@ -1,0 +1,47 @@
+* {
+  font-family: poppins;
+}
+
+body {
+
+  background-color: slategrey;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  color: black;
+  background: light;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+/* Nav Bar */
+.navbar {
+  background-color: black;
+}
+
+.logo img {
+  height: 4vw;
+  width: 4vw;
+}
+
+.navbar .nav-link {
+  font-size: 20px;
+  margin-left: 10px;
+  color: white;
+}
+
+.navbar-nav li a:hover, .navbar-nav li a.current {
+  color: cornflowerblue
+}
+
+.fa-bars {
+  color: white;
+  font-size: 30px;
+}
+
+.navbar-toggler i:hover {
+  color: cornflowerblue
+}
