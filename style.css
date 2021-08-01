@@ -1,6 +1,10 @@
- .icons:hover{
-  color:coral
+ .fab:hover{
+  color:lightsteelblue;
 }
+ .social_handles{
+  color:white;
+}
+
 .footer_text{
   color: white;
 }
@@ -8,5 +12,23 @@
   cursor: default;
 }
 .footer_text a:hover, p:hover{
-  color:coral
+  color:lightblue
 } 
+#footer_umic {
+  display: flex;
+  justify-content: center;
+}
+
+.footer_logo {
+  margin-top: 2vw;
+  margin-bottom: 2vw;
+}
+.footer_content{
+  align-content: center;
+  margin-top: 2vw;
+  display: flex;
+
+}
+.social_handles i{
+ font-size: 4vw;
+}
