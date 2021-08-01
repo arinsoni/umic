@@ -33,6 +33,12 @@
   display: flex;
 
 }
+.footer_content p{
+ padding-left: 1vw;
+ line-height: 2.1vw;
+  
+
+}
 .social_handles i{
  font-size: 4vw;
 }
