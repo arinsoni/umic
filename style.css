@@ -1,0 +1,12 @@
+ .icons:hover{
+  color:coral
+}
+.footer_text{
+  color: white;
+}
+.footer_text p{
+  cursor: default;
+}
+.footer_text a:hover, p:hover{
+  color:coral
+} 
