@@ -1,1 +1,1 @@
-For UMIC
+Responsive UMIC cards
