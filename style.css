@@ -115,7 +115,7 @@ input, textarea {
 }
 .footer_content p{
 padding-left: 1vw;
-line-height: 2.1vw;
+
  
 
 }
@@ -125,4 +125,7 @@ font-size: 4vw;
 
 .footer_content a{
   color: white;
+}
+.coulmn a {
+color: white;
 }
