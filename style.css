@@ -76,3 +76,53 @@ body {
 input, textarea {
   width: 100%;
 }
+
+/* Footer */
+.visibility{
+  color: red;
+  visibility: hidden;
+}
+.fab:hover{
+ color:lightsteelblue;
+}
+.social_handles{
+ color:white;
+}
+
+.footer_text{
+ color: white;
+}
+.footer_text p{
+ cursor: default;
+}
+.footer_text a:hover, p:hover{
+ color:lightblue
+} 
+#footer_umic {
+ display: flex;
+ justify-content: center;
+}
+
+.footer_logo {
+ margin-top: 2vw;
+ margin-bottom: 2vw;
+}
+.footer_content{
+ align-content: center;
+ margin-top: 2vw;
+ display: flex;
+
+}
+.footer_content p{
+padding-left: 1vw;
+line-height: 2.1vw;
+ 
+
+}
+.social_handles i{
+font-size: 4vw;
+}
+
+.footer_content a{
+  color: white;
+}
