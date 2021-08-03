@@ -76,6 +76,15 @@ body {
 input, textarea {
   width: 100%;
 }
+/* OC */
+.OC{
+  margin-left: 1vw;
+  margin-right: 1vw;
+  padding-top: 3vw;
+  padding-bottom: 3vw;
+  
+}
+
 
 /* Footer */
 .visibility{
